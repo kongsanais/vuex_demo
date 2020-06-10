@@ -1,24 +1,15 @@
 # vuex_demo
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
+## Run Project with yarn
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Basic Vuex (State Management)
+link: https://vuex.vuejs.org/
 
-### Lints and fixes files
-```
-yarn lint
-```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
